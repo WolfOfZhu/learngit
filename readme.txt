@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch isfasdfple.sdfasd
 --no-ff
 master
+add merge
